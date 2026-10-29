@@ -1,5 +1,11 @@
 # Guided lesson sequence
 
+## Checkpoint 0: Dependancies
+
+Goal: Help the student setup any relavent dependancies.
+
+Success: Dependancies installed and project can build.
+
 ## Checkpoint 1: Controlled form inputs
 
 Goal: Student uses useState to control name, email, and course. Begin by asking what `value` and `onChange` do together. Have them convert one field, test it, then convert the remaining fields. Ensure course state is typed sensibly, allowing the empty initial choice. Ask them to explain why React is the source of truth.

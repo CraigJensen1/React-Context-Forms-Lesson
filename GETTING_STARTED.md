@@ -1,20 +1,26 @@
 # Getting Started: React Forms, Validation, and Context
 
+## ⚡ Setup (do this first!)
+
+1. Create your own copy of this template repository using GitHub's **Use this template** button.
+2. Open your copy in VS Code with the Claude Code extension available.
+3. **Open a terminal in the project directory and run:**
+   ```bash
+   npm install
+   npm run dev
+   ```
+4. Wait for the dev server to start. It will show you a local URL (like `http://localhost:5173`).
+5. Open that URL in your browser to see the app running.
+6. Open Claude Code and type **Start my lesson.**
+7. Follow the tutor's steps, writing and testing code as you go.
+
+If Claude does not begin the guided lesson, close and reopen Claude Code, then type **Start my lesson.**
+
 ## Your mission
 
 Build a Course Registration application. You will first make a form work, then validate its inputs, manage registrations through props, and finally use React Context to share the registrations across components.
 
 **Estimated time:** 60 to 90 minutes, depending on your experience.
-
-## Setup
-
-1. Create your own copy of this template repository using GitHub's **Use this template** button.
-2. Open your copy in VS Code with the Claude Code extension available.
-3. Open a terminal and run `npm install` and then `npm run dev`.
-4. Open Claude Code and type **Start my lesson.**
-5. Follow the tutor's steps, writing and testing code as you go.
-
-If Claude does not begin the guided lesson, close and reopen Claude Code, then type **Start my lesson.**
 
 ## How to work
 
